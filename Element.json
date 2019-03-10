@@ -1,0 +1,9 @@
+{	"_comment":"This is the control file for bardevkit",
+	"ndSys":"CPY", 
+	"ndSubSys":"UMBUMB",
+    "ndType":"PEM00018",
+    "ndEnv":"DEVLB",
+	"ndCC":"C001253467",
+	"ndComment":"BYPASS - SBF testing bardevkit", 
+    "ndProcessor":"PEMX00018"
+}
